@@ -21,6 +21,7 @@ I'm a full stack web developer and wannabe engineer at Beverly Hills High School
 ![JS](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF)
 ![Github](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF)
