@@ -34,7 +34,7 @@ I'm a full stack web developer and wannabe engineer at Beverly Hills High School
 
 ### Robotics / General use
 
-![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
 ![Wpilib](https://img.shields.io/badge/-WPILIB-black?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAACXBIWXMAAAA4AAAAOAEV0y+fAAABq0lEQVQokaWSOy9DcRjGH6c9l6pLKxHXwakSqoOxbmEzIt0MJBaTRHwSn0BisTUYbQySakglKgalBkoi0aLac+lFnn9KSCf6JKfv7fecNyd9GyqVCv4r509fJBg6TFqF6YNcBjYqyNoWPLICGQ2YbfLCr7iOwonozBf/vTkSDM1HXp93j60cnIqKkkOCqqowTROOUhlFy8SE0oRwa/tCOBHd+2We69Xfzu18s8PthizLNR9i2zZKHx8YlRvf9+9TLexJ/NnwBbZSttGsB0YwODQsYI+3DXq/X0SKfc7JkRfmSDDkSdvGYkZxYmxqBiura8IwXs0ZNZdL5JyTI08fN2+mLEPVNA1P6Qexpau7RzwUt+s+v8g5J0eePpqXb808JElC6ua6ahhAn8+P+FkMnV09oqY4J0eePpq3fWojyuUyHtMPMIwCxianBRw/PRGRNfuckyNPH83ruqKZhmFU354UMZt5ETnjzz458vRJ4UQ02y1rO16rKIZXlxe4u00ifhqrbo+Jmn2KHHn66v+fqSVPxxIviEAxXxCXRTGyZp9zcjXnWddt/1kAPgFptfcL2+C+OwAAAABJRU5ErkJggg==)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
