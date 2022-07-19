@@ -4,7 +4,7 @@ I'm Cameron!
 
 ---
 
-I'm a full stack web developer and wannabe engineer at Beverly Hills High School
+I'm a full stack web developer and wannabe engineer
 
 - :star: Currently working on and learning a lot of things at once
 - :muscle: Most comfortable with web development
