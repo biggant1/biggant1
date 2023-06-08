@@ -22,6 +22,7 @@ I'm a full stack web developer and wannabe engineer
 ![JS](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
 ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
